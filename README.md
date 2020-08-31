@@ -1,4 +1,4 @@
-#Towson Faculty Scraper
+# Towson Faculty Scraper
 
 This scraper pulls the names, emails, phone numbers, and Rooms to Towson University's Physics Department (my Alma mater).
 
@@ -8,7 +8,7 @@ This was also my first indepth look at Regex syntax and BeautifulSoup4.
 
 Note: Libraries used requests, bs4, datetime, and re.
 
-##Contents
+## Contents
 This repository should contain 
 -the raw Towson\_Facutly\_Scraper.py
 -the original html data scraped (in a text document)
