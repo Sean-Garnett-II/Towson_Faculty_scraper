@@ -1,0 +1,3025 @@
+This is the html data that I scanned when writing this scraper. 
+Acquired: 08/30/2020
+from https://www.towson.edu/fcsm/departments/physics/facultystaff/
+
+
+<!DOCTYPE HTML>
+<html class="no-js" lang="en">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1, minimum-scale=1" name="viewport"/>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <title>
+   Faculty &amp; Staff | Towson University
+  </title>
+  <meta content="Faculty &amp; Staff" name="description"/>
+  <meta content="Towson, University, System, Maryland, state, TU, md, apply, college, campus, " name="keywords"/>
+  <meta content="Faculty &amp; Staff" property="og:title"/>
+  <meta content="https://www.towson.edu/fcsm/departments/physics/facultystaff/index.html" property="og:url"/>
+  <meta content="website" property="og:type"/>
+  <meta content="" property="og:image"/>
+  <meta content="Faculty &amp; Staff" property="og:description"/>
+  <meta content="Towson University" property="og:site_name"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Towson University" name="twitter:site"/>
+  <meta content="@TowsonU" name="twitter:creator"/>
+  <meta content="https://www.towson.edu/fcsm/departments/physics/facultystaff/index.html" name="twitter:url"/>
+  <meta content="Faculty &amp; Staff" name="twitter:title"/>
+  <meta content="Faculty &amp; Staff" name="twitter:description"/>
+  <meta content="https://www.towson.edu/_resources/images/twitter-meta.png" name="twitter:image"/>
+  <!-- this is the headcode include -->
+  <!-- Favions / Touch Icons -->
+  <link href="/_resources/images/favicons/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="/_resources/images/favicons/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/_resources/images/favicons/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="/_resources/images/favicons/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="/_resources/images/favicons/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="/_resources/images/favicons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/_resources/images/favicons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/_resources/images/favicons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/_resources/images/favicons/favicon-196x196.png" rel="icon" sizes="196x196" type="image/png"/>
+  <link href="/_resources/images/favicons/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="/_resources/images/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/_resources/images/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <meta content="#D0021B" name="msapplication-TileColor">
+   <meta content="/_resources/images/favicons/mstile-144x144.png" name="msapplication-TileImage">
+    <!-- Added for Bing -->
+    <meta content="B40CE5064A20DA07F568D42C01B2BDA6" name="msvalidate.01">
+     <!-- <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="max-age=2592000" /> -->
+     <!-- <meta http-equiv="Cache-Control" content="no-cache" />  -->
+     <!-- Modernizer -->
+     <script src="/_resources/js/src/lib/modernizr.custom.js">
+     </script>
+     <!-- Fonts -->
+     <link href="https://use.typekit.net/skr3kgt.css" rel="stylesheet"/>
+     <!-- Compiled CSS -->
+     <!--[if gt IE 8]><!-->
+     <link href="/_resources/css/site.css?date=200808v2" rel="stylesheet">
+      <!--<![endif]-->
+      <!--[if IE 8]>
+<script>var IE8 = true;</script>
+<script src="/_resources/js/site-ie8.js"></script>
+<link rel="stylesheet" href="/_resources/css/site-ie8.css" />
+<![endif]-->
+      <!--[if IE 9]>
+<script>var IE9 = true;</script>
+<script src="/_resources/js/site-ie9.js"></script>
+<link rel="stylesheet" href="/_resources/css/site-ie9.css" />
+<![endif]-->
+      <!-- Style Override -->
+      <style>
+       /* Fix for Side Navigation Highlighting 
+	.no-touch .subnavigation ul li a.active:hover, .subnavigation ul li a.active {
+		position: relative;
+		background-color: #3D3D3D;
+		color: #FFF;
+	}*/
+      </style>
+      <!-- Added Cookiebot on 10/24/18 -->
+      <script async="" data-cbid="439e3577-2649-4f50-b501-dea21a2c0bf1" id="Cookiebot" src="https://consent.cookiebot.com/uc.js" type="text/javascript">
+      </script>
+      <script type="text/javascript">
+       var page_id="https://www.towson.edu/fcsm/departments/physics/facultystaff/index.html";
+			var ou_dirname = "/fcsm/departments/physics/facultystaff/";
+			var ou_filename = "index.html";
+      </script>
+      <!-- Added for anti-blink Google Optimize   -->
+      <style>
+       .async-hide { opacity: 0 !important}
+      </style>
+      <script>
+       (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',300,
+{'GTM-W7NGR84':true});
+      </script>
+      <!-- the GTM-W7NGR84 below is for Google Optimize to be added into the GA code below -->
+      <!-- ga('require', 'GTM-W7NGR84'); -->
+      <!-- Added Cookiebot code on 10/24/18 -->
+      <script data-cookieconsent="statistics" type="text/plain">
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  	ga('create', 'UA-11283030-5', 'auto');
+	ga('create', 'UA-11283030-7', 'auto', "trackerTwo");
+	
+	ga('require', 'GTM-W7NGR84');
+	
+  	ga('send', 'pageview', {
+  'anonymizeIp': true
+	});
+	ga('trackerTwo.send', 'pageview', {
+  'anonymizeIp': true
+	});
+      </script>
+     </link>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class="gridlock flexible_content_template">
+  <div id="skip-to-main">
+   <a class="offscreen" href="#page" id="skip_to_content">
+    Skip to Main Content
+   </a>
+  </div>
+  <div class="body_wrapper">
+   <!DOCTYPE HTML>
+   <header class="header" id="header" role="banner">
+    <section class="secondary">
+     <div class="row">
+      <div class="all-full">
+       <div class="logo_container">
+        <a class="logo" href="/">
+         Towson University
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="secondary_navigation_container">
+      <nav class="persistent_navigation">
+       <a class="persistent_navigation_link athletics" href="https://www.towsontigers.com/" onclick="ga('send', 'event', 'topnav', 'click', 'athletics');" target="_blank">
+        Tiger Athletics
+       </a>
+       <a class="persistent_navigation_link support" href="/support/" onclick="ga('send', 'event', 'topnav', 'click', 'support');">
+        Support TU
+       </a>
+       <a class="persistent_navigation_link lfy_handle links ql" href="/index.html" onclick="ga('send', 'event', 'topnav', 'click', 'quicklinks');">
+        Quick Links
+       </a>
+      </nav>
+     </div>
+    </section>
+    <div class="lfy_container">
+     <div class="lfy_wrapper js-tabber" data-tabber-options='{"maxWidth":"739px"}'>
+      <div class="lfy_overlay">
+      </div>
+      <div class="lfy_content">
+       <div class="lfy_close_button lfy_close_hook">
+       </div>
+       <div class="lfy_label lfy_close_hook">
+        Quick Links
+       </div>
+       <div class="lfy_tab_navigation_container">
+        <div class="lfy_tab_navigation">
+         <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_1_d">
+          Current Students
+         </a>
+         <div class="tabber-tab" id="lfy_1_d">
+          <h3 class="type">
+           Current Students
+          </h3>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Tools
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="https://mytu.towson.edu" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             myTU
+            </a>
+            <a class="lfy_navigation_list_link" href="https://blackboard.towson.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1  onclick=" onclick="">
+             Blackboard
+            </a>
+            <a class="lfy_navigation_list_link" href="https://inside.towson.edu/psLogin" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Towson Online Services
+            </a>
+            <a class="lfy_navigation_list_link" href="/directories/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Campus Directory
+            </a>
+            <a class="lfy_navigation_list_link" href="https://towson.omnilert.net/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Emergency Alerts &amp; Safety Advisories
+            </a>
+            <a class="lfy_navigation_list_link" href="http://webmail.towson.edu/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Webmail
+            </a>
+           </nav>
+          </div>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Helpful Resources
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="https://libraries.towson.edu/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Library
+            </a>
+            <a class="lfy_navigation_list_link" href="/registrar/degree-requirements/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Check Your Degree Requirements
+            </a>
+            <a class="lfy_navigation_list_link" href="/bursar/payment/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Pay Your Bill
+            </a>
+            <a class="lfy_navigation_list_link" href="/registrar/registration/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Register for Classes
+            </a>
+            <a class="lfy_navigation_list_link" href="/academicadvising/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Help with Advising
+            </a>
+            <a class="lfy_navigation_list_link" href="https://csprd.towson.edu/psp/CS9PRD/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSR_SSENRL_GRADE.GBL" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Check Your Grades
+            </a>
+            <a class="lfy_navigation_list_link" href="/financialservices/payroll/documents/timesheet_guide_contingents_and_students.pdf" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Work Study Timesheets
+            </a>
+            <a class="lfy_navigation_list_link" href="/inclusionequity/titleix/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Title IX
+            </a>
+           </nav>
+          </div>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Student Services
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/admissions/financialaid/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Financial Aid
+            </a>
+            <a class="lfy_navigation_list_link" href="/healthcenter/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Health Center
+            </a>
+            <a class="lfy_navigation_list_link" href="/careercenter/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Career Center
+            </a>
+            <a class="lfy_navigation_list_link" href="/counseling/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Counseling Center
+            </a>
+            <a class="lfy_navigation_list_link" href="/accessibility-disability-services/index.html" onclick="">
+             Accessibility &amp; Disability Services
+            </a>
+            <a class="lfy_navigation_list_link" href="http://onecard.towson.edu/" onclick="">
+             OneCard/TU ID Card
+            </a>
+            <a class="lfy_navigation_list_link" href="/technology/studentservices/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Student Computing Services
+            </a>
+            <a class="lfy_navigation_list_link" href="/parking/student/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Student Parking
+            </a>
+            <a class="lfy_navigation_list_link" href="https://www.dineoncampus.com/towson" onclick="">
+             Dining &amp; Meal Plans
+            </a>
+            <a class="lfy_navigation_list_link" href="/studentlife/housing/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'current-students-link');">
+             Housing and Residence Life
+            </a>
+            <a class="lfy_navigation_list_link" href="/studentlife/services/index.html" onclick="">
+             Student Services &amp; Resources
+            </a>
+            <a class="lfy_navigation_list_link" href="/academics/resources/index.html" onclick="">
+             Academic Services &amp; Resources
+            </a>
+           </nav>
+          </div>
+         </div>
+         <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_2_d">
+          Future Students
+         </a>
+         <div class="tabber-tab" id="lfy_2_d">
+          <h3 class="type">
+           Future Students
+          </h3>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Tools
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/admissions/undergrad/freshmen/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Freshman Application
+            </a>
+            <a class="lfy_navigation_list_link" href="/admissions/undergrad/transfer/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Transfer Application
+            </a>
+            <a class="lfy_navigation_list_link" href="/admissions/undergrad/international/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Undergraduate International Application
+            </a>
+            <a class="lfy_navigation_list_link" href="/academics/graduate/admissions/apply/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Graduate Application
+            </a>
+            <a class="lfy_navigation_list_link" href="/academics/graduate/admissions/international/index.html" onclick="">
+             Graduate International Application
+            </a>
+            <a class="lfy_navigation_list_link" href="/admissions/undergrad/request.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Request Info (Undergrad Admission)
+            </a>
+            <a class="lfy_navigation_list_link" href="/academics/graduate/admissions/request.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Request Info (Graduate Admission)
+            </a>
+            <a class="lfy_navigation_list_link" href="/admissions/tuition/calculator.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Net Price Calculator
+            </a>
+           </nav>
+          </div>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Helpful Resources
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/visit/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Take a Campus Tour
+            </a>
+            <a class="lfy_navigation_list_link" href="/admissions/undergrad/team/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Our Admissions Counselors
+            </a>
+            <a class="lfy_navigation_list_link" href="/academics/undergraduate/majors/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             List of Majors
+            </a>
+            <a class="lfy_navigation_list_link" href="/academics/resources/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Academic Resources
+            </a>
+            <a class="lfy_navigation_list_link" href="/inclusionequity/titleix/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Title IX
+            </a>
+           </nav>
+          </div>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Student Services
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/academics/international/abroad/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Study Abroad
+            </a>
+            <a class="lfy_navigation_list_link" href="/careercenter/students/internships/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Internships
+            </a>
+            <a class="lfy_navigation_list_link" href="/studentlife/activities/engagement/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Service &amp; Civic Engagement
+            </a>
+            <a class="lfy_navigation_list_link" href="/studentlife/housing/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Housing &amp; Dining
+            </a>
+            <a class="lfy_navigation_list_link" href="/studentlife/activities/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Student Activities
+            </a>
+            <a class="lfy_navigation_list_link" href="/studentlife/activities/recreation/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'future-students-link');">
+             Sports &amp; Recreation
+            </a>
+           </nav>
+          </div>
+         </div>
+         <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_3_d">
+          Parents or Family Members
+         </a>
+         <div class="tabber-tab" id="lfy_3_d">
+          <h3 class="type">
+           Parents or Family Members
+          </h3>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Tools
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/admissions/undergrad/request.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             Request Information Form
+            </a>
+            <a class="lfy_navigation_list_link" href="/admissions/undergrad/freshmen/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             Freshman Application
+            </a>
+            <a class="lfy_navigation_list_link" href="/admissions/undergrad/transfer/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             Transfer Application
+            </a>
+            <a class="lfy_navigation_list_link" href="/admissions/undergrad/international/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             International Application
+            </a>
+            <a class="lfy_navigation_list_link" href="/admissions/tuition/calculator.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             Net Price Calculator
+            </a>
+            <a class="lfy_navigation_list_link" href="https://towson.omnilert.net/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             Campus Emergency Notification System
+            </a>
+           </nav>
+          </div>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Helpful Resources
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/visit/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             Visiting Towson University
+            </a>
+            <a class="lfy_navigation_list_link" href="/visit/local/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             Local Attractions &amp; Accommodations
+            </a>
+            <a class="lfy_navigation_list_link" href="/studentlife/newstudent/family/network.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             Family Network
+            </a>
+            <a class="lfy_navigation_list_link" href="/studentlife/activities/events/family/index.html" onclick="">
+             Family Weekend
+            </a>
+            <a class="lfy_navigation_list_link" href="/inclusionequity/titleix/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'parent-family-link');">
+             Title IX
+            </a>
+            <a class="lfy_navigation_list_link" href="/studentlife/services/index.html" onclick="">
+             Student Services &amp; Resources
+            </a>
+            <a class="lfy_navigation_list_link" href="/academics/resources/index.html" onclick="">
+             Academic Services &amp; Resources
+            </a>
+           </nav>
+          </div>
+         </div>
+         <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_4_d">
+          Faculty or Staff
+         </a>
+         <div class="tabber-tab" id="lfy_4_d">
+          <h3 class="type">
+           Faculty or Staff
+          </h3>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Tools
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="https://mytu.towson.edu/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             myTU
+            </a>
+            <a class="lfy_navigation_list_link" href="https://vw.towson.edu" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Virtual Workspace
+            </a>
+            <a class="lfy_navigation_list_link" href="https://inside.towson.edu/HumanResources/TimesheetsDD.v30/TSMain.cfm" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Timesheets
+            </a>
+            <a class="lfy_navigation_list_link" href="https://fs91prd.towson.edu/psp/FS91PRD/EMPLOYEE/ERP/h/?tab=DEFAULT" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Tiger Travel
+            </a>
+            <a class="lfy_navigation_list_link" href="https://inside.towson.edu/psLogin/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Towson Online Services
+            </a>
+            <a class="lfy_navigation_list_link" href="https://blackboard.towson.edu/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Blackboard
+            </a>
+            <a class="lfy_navigation_list_link" href="https://towson.my.salesforce.com/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Salesforce
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/landmarks/webcam.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             TU Webcam
+            </a>
+            <a class="lfy_navigation_list_link" href="https://outlook.towson.edu/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Webmail
+            </a>
+           </nav>
+          </div>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Helpful Services &amp; Resources
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/hr/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Human Resources
+            </a>
+            <a class="lfy_navigation_list_link" href="/provost/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Office of the Provost
+            </a>
+            <a class="lfy_navigation_list_link" href="/technology/facultystaff/support/help.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             OTS Faculty/Staff Help Center
+            </a>
+            <a class="lfy_navigation_list_link" href="https://techhelp.towson.edu/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             TechHelp
+            </a>
+            <a class="lfy_navigation_list_link" href="/registrar/calendars/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Academic Calendar
+            </a>
+            <a class="lfy_navigation_list_link" href="https://inside.towson.edu/generalcampus/formsrepository/output.cfm" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Forms Repository
+            </a>
+            <a class="lfy_navigation_list_link" href="https://towson.omnilert.net/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Campus Emergency Notification
+            </a>
+            <a class="lfy_navigation_list_link" href="http://forecast.weather.gov/MapClick.php?CityName=Towson&amp;state=MD&amp;site=LWX&amp;textField1=39.395&amp;textField2=-76.6213&amp;e=1#.VVypuzvF99U" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Local Weather
+            </a>
+            <a class="lfy_navigation_list_link" href="/inclusionequity/titleix/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'faculty-staff-link');">
+             Title IX
+            </a>
+           </nav>
+          </div>
+         </div>
+         <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_5_d">
+          Alumni
+         </a>
+         <div class="tabber-tab" id="lfy_5_d">
+          <h3 class="type">
+           Alumni
+          </h3>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Alumni Benefits &amp; Services
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/resources" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Overview
+            </a>
+            <a class="lfy_navigation_list_link" href="/magazine/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             TU Magazine
+            </a>
+            <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/article/Alumni-Discount-Programs" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Alumni Discount Programs
+            </a>
+            <a class="lfy_navigation_list_link" href="https://towsonustore.com/SiteText.aspx?id=11578" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             University Store
+            </a>
+            <a class="lfy_navigation_list_link" href="/careercenter/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Career Center
+            </a>
+           </nav>
+          </div>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Helpful Resources
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Tiger Connect
+            </a>
+            <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/topic/0TO0h000000XeiDGAS/towson-advocacy-program?tabset-c1307=2" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Towson Advocacy Program
+            </a>
+            <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/topic/0TO0h000000XehiGAC/alumni-athletic-programs?tabset-c1307=2" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Game Day Celebrations
+            </a>
+            <a class="lfy_navigation_list_link" href="/registrar/registration/request-transcript.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Transcripts
+            </a>
+            <a class="lfy_navigation_list_link" href="/giving" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             TU Fund
+            </a>
+            <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/article/Volunteer-Outreach" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Volunteer &amp; Outreach
+            </a>
+            <a class="lfy_navigation_list_link" href="/support/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Support Towson University
+            </a>
+            <a class="lfy_navigation_list_link" href="/advancement/alumni.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Office of Alumni Relations
+            </a>
+            <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/events-list" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'alumni-link');">
+             Alumni Events
+            </a>
+           </nav>
+          </div>
+         </div>
+         <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_6_d">
+          Community Members
+         </a>
+         <div class="tabber-tab" id="lfy_6_d">
+          <h3 class="type">
+           Community Members
+          </h3>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Helpful Resources
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/campus/artsculture/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Arts &amp; Culture Events
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/artsculture/tickets.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Center for the Arts Box Office
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/artsculture/centers/communityart/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Community Arts &amp; Childrenâs Programs
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/programs/relations/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Neighborhood Relations
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/programs/youth/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Kid Camps &amp; Youth Programs
+            </a>
+            <a class="lfy_navigation_list_link" href="/visit/directions/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Directions &amp; Parking
+            </a>
+            <a class="lfy_navigation_list_link" href="/counsel/records.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Public Information Act Requests
+            </a>
+           </nav>
+          </div>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Services for the Community
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/iwb/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Institute for Well Being
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/programs/volunteers.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Find Volunteers
+            </a>
+            <a class="lfy_navigation_list_link" href="https://wtmd.org/" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             WTMD
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/programs/lifelonglearning.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'community-link');">
+             Lifelong Learning
+            </a>
+           </nav>
+          </div>
+         </div>
+         <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_7_d">
+          Business Partners
+         </a>
+         <div class="tabber-tab" id="lfy_7_d">
+          <h3 class="type">
+           Business Partners
+          </h3>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Centers &amp; Services
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/campus/artsculture/centers/asianarts/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Asian Arts &amp; Culture Center
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/community/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             BTU-Partnerships at Work For Greater Baltimore
+            </a>
+            <a class="lfy_navigation_list_link" href="/cbe/outreach/appliedbusiness.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Center for Applied Business &amp; Economic Research
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/partnerships-research/gis/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Center for GIS
+            </a>
+            <a class="lfy_navigation_list_link" href="/provost/initiatives/innovation/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Center for Innovation &amp; Entrepreneurship
+            </a>
+            <a class="lfy_navigation_list_link" href="/coe/resources/professionalpractice/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Center for Professional Practice
+            </a>
+            <a class="lfy_navigation_list_link" href="/fcsm/centers/stem/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Center for STEM Excellence
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/partnerships-research/venture-creation/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Venture Creation
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/partnerships-research/outreach.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Partnerships &amp; Outreach
+            </a>
+            <a class="lfy_navigation_list_link" href="/campus/partnerships-research/economic-studies/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Regional Economic Studies Institute
+            </a>
+           </nav>
+          </div>
+          <div class="lfy_navigation_group">
+           <h4 class="label">
+            Helpful Resources
+           </h4>
+           <nav class="lfy_navigation_list">
+            <a class="lfy_navigation_list_link" href="/careercenter/employers/index.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Hiring TU Students
+            </a>
+            <a class="lfy_navigation_list_link" href="/support/ways/sponsorship.html" onclick="ga('send', 'event', 'topnav', 'quicklinks-click', 'business-link');">
+             Sponsorship &amp; Advertising Opportunities
+            </a>
+           </nav>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <section class="secondary_lower">
+     <div class="secondary_navigation_container_lower" style="overflow: visible;">
+      <nav class="secondary_navigation_lower clearfix">
+       <a class="secondary_navigation_link" href="https://alumni.towson.edu/s/" onclick="ga('send', 'event', 'topnav', 'click', 'alumni');">
+        Alumni
+       </a>
+       <a class="secondary_navigation_link" href="https://mytu.towson.edu" onclick="ga('send', 'event', 'topnav', 'click', 'mytu');">
+        myTU
+       </a>
+       <a class="secondary_navigation_link" href="/news/" onclick="ga('send', 'event', 'topnav', 'click', 'news');">
+        News
+       </a>
+       <a class="secondary_navigation_link" href="https://libraries.towson.edu/" onclick="ga('send', 'event', 'topnav', 'click', 'library');">
+        Library
+       </a>
+       <a class="secondary_navigation_link" href="/calendars/" onclick="ga('send', 'event', 'topnav', 'click', 'calendarevents');">
+        Calendars &amp; Events
+       </a>
+       <a class="secondary_navigation_link" href="https://towsonustore.com/home.aspx" onclick="ga('send', 'event', 'topnav', 'click', 'universitystore');">
+        University Store
+       </a>
+       <a class="secondary_navigation_link" href="/directories/" onclick="ga('send', 'event', 'topnav', 'click', 'directories');">
+        Directories
+       </a>
+       <a class="secondary_navigation_link" href="/maps/index.html" onclick="ga('send', 'event', 'topnav', 'click', 'maps');">
+        Maps
+       </a>
+      </nav>
+     </div>
+    </section>
+    <section class="primary">
+     <div class="row">
+      <nav class="all-full primary_navmaintop">
+       <ul class="navmaintop">
+        <li class="primary_navigation_item nobullet">
+         <a class="primary_navigation_link" href="/about/">
+          <span>
+           About TU
+          </span>
+         </a>
+         <ul class="primary_navigation_children">
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/about/ataglance/index.html">
+            TU at a Glance
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/about/mission/index.html">
+            Mission &amp; Strategic Plan
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/about/rankings.html">
+            Rankings &amp; Achievements
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/about/administration/index.html">
+            Administration
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/about/diversity.html">
+            Commitment to Diversity
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/about/accessibility/index.html">
+            Accessibility
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/about/sustainability/index.html">
+            Sustainability
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/about/consumer/index.html">
+            Consumer Information &amp; Accreditation
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="primary_navigation_item nobullet">
+         <a class="primary_navigation_link" href="/academics/">
+          <span>
+           Academics
+          </span>
+         </a>
+         <ul class="primary_navigation_children">
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/undergraduate/index.html">
+            Undergraduate Studies
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/graduate/index.html">
+            Graduate Studies
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/departments/index.html">
+            Colleges &amp; Departments
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/offcampus.html">
+            Off-Campus Locations
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/extended.html">
+            Extended &amp; Professional Education
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/research/index.html">
+            Research
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/international/index.html">
+            International Initiatives
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/summer/index.html">
+            Summer Session
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/resources/index.html">
+            Academic Services &amp; Resources
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/commencement/index.html">
+            Commencement
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="primary_navigation_item nobullet">
+         <a class="primary_navigation_link" href="/admissions/">
+          <span>
+           Admissions &amp; Aid
+          </span>
+         </a>
+         <ul class="primary_navigation_children">
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/admissions/undergrad/index.html">
+            Undergraduate Admissions
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/academics/graduate/admissions/index.html">
+            Graduate Admissions
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/admissions/tuition/index.html">
+            Tuition &amp; Expenses
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/admissions/financialaid/index.html">
+            Financial Aid
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/admissions/visit/index.html">
+            Visit Campus
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/admissions/apply.html">
+            Apply Now
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/admissions/request.html">
+            Request Information
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="primary_navigation_item nobullet">
+         <a class="primary_navigation_link" href="/studentlife/">
+          <span>
+           Student Life
+          </span>
+         </a>
+         <ul class="primary_navigation_children">
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/studentlife/activities/index.html">
+            Things to Do
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/studentlife/housing/index.html">
+            Housing &amp; Dining
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/studentlife/services/index.html">
+            Student Services &amp; Resources
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/studentlife/health/index.html">
+            Health &amp; Wellness
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/studentlife/safety.html">
+            Safety &amp; Security
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/studentlife/newstudent/index.html">
+            New Student &amp; Family Programs
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="primary_navigation_item nobullet">
+         <a class="primary_navigation_link" href="/campus/">
+          <span>
+           Campus &amp; Community
+          </span>
+         </a>
+         <ul class="primary_navigation_children">
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/campus/together/index.html">
+            Together Towson
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/campus/community/index.html">
+            BTUâPartnerships for Greater Baltimore
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/campus/entrepreneurship.html">
+            Entrepreneurship
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/campus/partnerships-research/index.html">
+            Strategic Partnerships &amp; Applied Research
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/campus/programs/index.html">
+            Community Programs &amp; Resources
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/campus/artsculture/index.html">
+            Arts &amp; Culture on Campus
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/campus/landmarks/index.html">
+            Campus Landmarks &amp; Features
+           </a>
+          </li>
+          <li class="nobullet">
+           <a class="primary_navigation_child_link" href="/campus/planningevents/index.html">
+            Planning Events &amp; Conferences at TU
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </nav>
+      <div class="search_module">
+       <form action="/search/index.html" class="search_form">
+        <label class="offscreen" for="search">
+         Search
+        </label>
+        <input class="search_input" id="search" name="q" onblur="if(this.value=='')this.value=this.defaultValue" onfocus="if(this.value==this.defaultValue)this.value=''" type="text" value="Search"/>
+        <button class="search_submit" type="submit">
+         Search
+        </button>
+       </form>
+      </div>
+     </div>
+    </section>
+    <section class="mobile">
+     <div class="mobile_logo_container">
+      <a class="mobile_logo_wrapper" href="https://www.towson.edu/">
+       <span class="mobile_logo">
+        Towson University
+       </span>
+      </a>
+      <nav class="persistent_navigation clearfix">
+       <a class="persistent_navigation_link athletics" href="https://www.towsontigers.com/" onclick="ga('send', 'event', 'topnav', 'click', 'athletics');" target="_blank">
+        Tiger Athletics
+       </a>
+       <a class="persistent_navigation_link support" href="/support/" onclick="ga('send', 'event', 'topnav', 'click', 'support');">
+        Support TU
+       </a>
+       <a class="persistent_navigation_link lfy_handle links" href="/index.html" onclick="ga('send', 'event', 'topnav', 'click', 'quicklinks');">
+        Quick Links
+       </a>
+      </nav>
+     </div>
+     <div class="mobile_navigation_container">
+      <a class="mobile_mainmenu_link themainmenumobile" data-menuitems="mainmenu" href="/index.html">
+       <span class="navigation_label navigation_label_menu">
+        Menu
+       </span>
+       <span class="close_label">
+        Close
+       </span>
+      </a>
+      <div class="mobile_mainmenu">
+       <div class="mainmenu_container mainmenu">
+        <div class="mobile_navigation">
+         <nav class="mobile_primary_navigation">
+          <a class="mobile_primary_navigation_link" href="/about/" onclick="">
+           About TU
+          </a>
+          <a class="mobile_primary_navigation_link" href="/academics/" onclick="">
+           Academics
+          </a>
+          <a class="mobile_primary_navigation_link" href="/admissions/" onclick="">
+           Admissions &amp; Aid
+          </a>
+          <a class="mobile_primary_navigation_link" href="/studentlife/" onclick="">
+           Student Life
+          </a>
+          <a class="mobile_primary_navigation_link" href="/campus/" onclick="">
+           Campus &amp; Community
+          </a>
+         </nav>
+         <div class="mobile_search_module">
+          <form action="/search/index.html" class="search_form">
+           <label class="offscreen" for="mobile_search_menu">
+            Search Towson.edu web
+           </label>
+           <input class="search_input" id="mobile_search_menu" name="q" placeholder="Search" type="text"/>
+           <button class="search_submit" type="submit">
+            Search
+           </button>
+          </form>
+         </div>
+         <nav class="mobile_persistent_navigation clearfix">
+          <a class="mobile_persistent_navigation_link" href="/support/">
+           Support TU
+          </a>
+          <a class="mobile_persistent_navigation_link" href="https://www.towsontigers.com/" target="_blank">
+           Athletics
+          </a>
+         </nav>
+         <nav class="mobile_secondary_navigation clearfix">
+          <a class="mobile_secondary_navigation_link" href="https://alumni.towson.edu/s/">
+           Alumni
+          </a>
+          <a class="mobile_secondary_navigation_link" href="https://mytu.towson.edu">
+           myTU
+          </a>
+          <a class="mobile_secondary_navigation_link" href="/news/">
+           News
+          </a>
+          <a class="mobile_secondary_navigation_link" href="https://libraries.towson.edu/">
+           Library
+          </a>
+          <a class="mobile_secondary_navigation_link" href="/calendars/">
+           Calendars &amp; Events
+          </a>
+          <a class="mobile_secondary_navigation_link" href="https://towsonustore.com/home.aspx">
+           University Store
+          </a>
+          <a class="mobile_secondary_navigation_link" href="/directories/">
+           Directories
+          </a>
+          <a class="mobile_secondary_navigation_link" href="/maps/index.html">
+           Maps
+          </a>
+         </nav>
+         <div id="back-to-mainmenu">
+          <a class="mobile_mainmenu_hook" href="#mainmenulink">
+           Close Menu
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <a class="mobile_search_link thesearchmobile" data-searchbar="search" href="/index.html">
+       Search
+      </a>
+      <div class="mobile_searchdrop">
+       <div class="searchdrop_container search">
+        <div class="mobile_search_module mobile_search_module_header clearfix">
+         <form action="/search/index.html" class="search_form">
+          <label class="offscreen" for="mobile_search">
+           Search Towson.edu website
+          </label>
+          <input class="search_input" id="mobile_search" name="q" placeholder="Search" type="text"/>
+          <button class="search_submit" type="submit">
+           Search
+          </button>
+         </form>
+        </div>
+       </div>
+      </div>
+      <a class="mobile_quicklinks_link thequicklinksmobile lfy_handle" data-quicklinksarea="quicklinks" href="/index.html">
+       Quicklinks
+      </a>
+      <div class="mobile_quicklinks">
+       <div class="quicklinks_container quicklinks">
+        <div class="lfy_container">
+         <div class="lfy_wrapper js-tabber" data-tabber-options='{"maxWidth":"739px"}'>
+          <div class="lfy_overlay">
+          </div>
+          <div class="lfy_content">
+           <div class="lfy_mobile_navigation_container">
+            <div class="close-ql">
+             <a class="lfy_close_hook" href="/index.html">
+              Close
+             </a>
+            </div>
+            <div class="lfy_mobile_header">
+             Quick Links
+            </div>
+            <label class="offscreen" for="lfy_mobile_navigation">
+             Choose a set of links
+            </label>
+            <select class="lfy_mobile_navigation" id="lfy_mobile_navigation">
+             <option value="1">
+              Current Students
+             </option>
+             <option value="2">
+              Future Students
+             </option>
+             <option value="3">
+              Parents or Family Members
+             </option>
+             <option value="4">
+              Faculty or Staff
+             </option>
+             <option value="5">
+              Alumni
+             </option>
+             <option value="6">
+              Community Members
+             </option>
+             <option value="7">
+              Business Partners
+             </option>
+            </select>
+           </div>
+           <div class="lfy_close_button lfy_close_hook">
+           </div>
+           <div class="lfy_label lfy_close_hook">
+            Quick Links
+           </div>
+           <h2 class="title">
+            Customized links for
+           </h2>
+           <div class="lfy_tab_navigation_container">
+            <div class="lfy_tab_navigation">
+             <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_1">
+              Current Students
+             </a>
+             <div class="tabber-tab" id="lfy_1m">
+              <h3 class="type">
+               Current Students
+              </h3>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Tools
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="https://mytu.towson.edu">
+                 myTU
+                </a>
+                <a class="lfy_navigation_list_link" href="https://blackboard.towson.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1  onclick=">
+                 Blackboard
+                </a>
+                <a class="lfy_navigation_list_link" href="https://inside.towson.edu/psLogin">
+                 Towson Online Services
+                </a>
+                <a class="lfy_navigation_list_link" href="/directories/index.html">
+                 Campus Directory
+                </a>
+                <a class="lfy_navigation_list_link" href="https://towson.omnilert.net/">
+                 Emergency Alerts &amp; Safety Advisories
+                </a>
+                <a class="lfy_navigation_list_link" href="http://webmail.towson.edu/">
+                 Webmail
+                </a>
+               </nav>
+              </div>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Helpful Resources
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="https://libraries.towson.edu/">
+                 Library
+                </a>
+                <a class="lfy_navigation_list_link" href="/registrar/degree-requirements/index.html">
+                 Check Your Degree Requirements
+                </a>
+                <a class="lfy_navigation_list_link" href="/bursar/payment/index.html">
+                 Pay Your Bill
+                </a>
+                <a class="lfy_navigation_list_link" href="/registrar/registration/index.html">
+                 Register for Classes
+                </a>
+                <a class="lfy_navigation_list_link" href="/academicadvising/index.html">
+                 Help with Advising
+                </a>
+                <a class="lfy_navigation_list_link" href="https://csprd.towson.edu/psp/CS9PRD/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSR_SSENRL_GRADE.GBL">
+                 Check Your Grades
+                </a>
+                <a class="lfy_navigation_list_link" href="/financialservices/payroll/documents/timesheet_guide_contingents_and_students.pdf">
+                 Work Study Timesheets
+                </a>
+                <a class="lfy_navigation_list_link" href="/inclusionequity/titleix/index.html">
+                 Title IX
+                </a>
+               </nav>
+              </div>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Student Services
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/admissions/financialaid/index.html">
+                 Financial Aid
+                </a>
+                <a class="lfy_navigation_list_link" href="/healthcenter/index.html">
+                 Health Center
+                </a>
+                <a class="lfy_navigation_list_link" href="/careercenter/index.html">
+                 Career Center
+                </a>
+                <a class="lfy_navigation_list_link" href="/counseling/index.html">
+                 Counseling Center
+                </a>
+                <a class="lfy_navigation_list_link" href="/accessibility-disability-services/index.html">
+                 Accessibility &amp; Disability Services
+                </a>
+                <a class="lfy_navigation_list_link" href="http://onecard.towson.edu/">
+                 OneCard/TU ID Card
+                </a>
+                <a class="lfy_navigation_list_link" href="/technology/studentservices/index.html">
+                 Student Computing Services
+                </a>
+                <a class="lfy_navigation_list_link" href="/parking/student/index.html">
+                 Student Parking
+                </a>
+                <a class="lfy_navigation_list_link" href="https://www.dineoncampus.com/towson">
+                 Dining &amp; Meal Plans
+                </a>
+                <a class="lfy_navigation_list_link" href="/studentlife/housing/index.html">
+                 Housing and Residence Life
+                </a>
+                <a class="lfy_navigation_list_link" href="/studentlife/services/index.html">
+                 Student Services &amp; Resources
+                </a>
+                <a class="lfy_navigation_list_link" href="/academics/resources/index.html">
+                 Academic Services &amp; Resources
+                </a>
+               </nav>
+              </div>
+             </div>
+             <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_2" name="future">
+              Future Students
+             </a>
+             <div class="tabber-tab" id="lfy_2m">
+              <h3 class="type">
+               Future Students
+              </h3>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Tools
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/admissions/undergrad/freshmen/index.html">
+                 Freshman Application
+                </a>
+                <a class="lfy_navigation_list_link" href="/admissions/undergrad/transfer/index.html">
+                 Transfer Application
+                </a>
+                <a class="lfy_navigation_list_link" href="/admissions/undergrad/international/index.html">
+                 Undergraduate International Application
+                </a>
+                <a class="lfy_navigation_list_link" href="/academics/graduate/admissions/apply/index.html">
+                 Graduate Application
+                </a>
+                <a class="lfy_navigation_list_link" href="/academics/graduate/admissions/international/index.html">
+                 Graduate International Application
+                </a>
+                <a class="lfy_navigation_list_link" href="/admissions/undergrad/request.html">
+                 Request Info (Undergrad Admission)
+                </a>
+                <a class="lfy_navigation_list_link" href="/academics/graduate/admissions/request.html">
+                 Request Info (Graduate Admission)
+                </a>
+                <a class="lfy_navigation_list_link" href="/admissions/tuition/calculator.html">
+                 Net Price Calculator
+                </a>
+               </nav>
+              </div>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Helpful Resources
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/visit/index.html">
+                 Take a Campus Tour
+                </a>
+                <a class="lfy_navigation_list_link" href="/admissions/undergrad/team/index.html">
+                 Our Admissions Counselors
+                </a>
+                <a class="lfy_navigation_list_link" href="/academics/undergraduate/majors/index.html">
+                 List of Majors
+                </a>
+                <a class="lfy_navigation_list_link" href="/academics/resources/index.html">
+                 Academic Resources
+                </a>
+                <a class="lfy_navigation_list_link" href="/inclusionequity/titleix/index.html">
+                 Title IX
+                </a>
+               </nav>
+              </div>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Student Services
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/academics/international/abroad/index.html">
+                 Study Abroad
+                </a>
+                <a class="lfy_navigation_list_link" href="/careercenter/students/internships/index.html">
+                 Internships
+                </a>
+                <a class="lfy_navigation_list_link" href="/studentlife/activities/engagement/index.html">
+                 Service &amp; Civic Engagement
+                </a>
+                <a class="lfy_navigation_list_link" href="/studentlife/housing/index.html">
+                 Housing &amp; Dining
+                </a>
+                <a class="lfy_navigation_list_link" href="/studentlife/activities/index.html">
+                 Student Activities
+                </a>
+                <a class="lfy_navigation_list_link" href="/studentlife/activities/recreation/index.html">
+                 Sports &amp; Recreation
+                </a>
+               </nav>
+              </div>
+             </div>
+             <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_3">
+              Parents or Family Members
+             </a>
+             <div class="tabber-tab" id="lfy_3m">
+              <h3 class="type">
+               Parents or Family Members
+              </h3>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Tools
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/admissions/undergrad/request.html">
+                 Request Information Form
+                </a>
+                <a class="lfy_navigation_list_link" href="/admissions/undergrad/freshmen/index.html">
+                 Freshman Application
+                </a>
+                <a class="lfy_navigation_list_link" href="/admissions/undergrad/transfer/index.html">
+                 Transfer Application
+                </a>
+                <a class="lfy_navigation_list_link" href="/admissions/undergrad/international/index.html">
+                 International Application
+                </a>
+                <a class="lfy_navigation_list_link" href="/admissions/tuition/calculator.html">
+                 Net Price Calculator
+                </a>
+                <a class="lfy_navigation_list_link" href="https://towson.omnilert.net/">
+                 Campus Emergency Notification System
+                </a>
+               </nav>
+              </div>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Helpful Resources
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/visit/index.html">
+                 Visiting Towson University
+                </a>
+                <a class="lfy_navigation_list_link" href="/visit/local/index.html">
+                 Local Attractions &amp; Accommodations
+                </a>
+                <a class="lfy_navigation_list_link" href="/studentlife/newstudent/family/network.html">
+                 Family Network
+                </a>
+                <a class="lfy_navigation_list_link" href="/studentlife/activities/events/family/index.html">
+                 Family Weekend
+                </a>
+                <a class="lfy_navigation_list_link" href="/inclusionequity/titleix/index.html">
+                 Title IX
+                </a>
+                <a class="lfy_navigation_list_link" href="/studentlife/services/index.html">
+                 Student Services &amp; Resources
+                </a>
+                <a class="lfy_navigation_list_link" href="/academics/resources/index.html">
+                 Academic Services &amp; Resources
+                </a>
+               </nav>
+              </div>
+             </div>
+             <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_4">
+              Faculty or Staff
+             </a>
+             <div class="tabber-tab" id="lfy_4m">
+              <h3 class="type">
+               Faculty or Staff
+              </h3>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Tools
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="https://mytu.towson.edu/">
+                 myTU
+                </a>
+                <a class="lfy_navigation_list_link" href="https://vw.towson.edu">
+                 Virtual Workspace
+                </a>
+                <a class="lfy_navigation_list_link" href="https://inside.towson.edu/HumanResources/TimesheetsDD.v30/TSMain.cfm">
+                 Timesheets
+                </a>
+                <a class="lfy_navigation_list_link" href="https://fs91prd.towson.edu/psp/FS91PRD/EMPLOYEE/ERP/h/?tab=DEFAULT">
+                 Tiger Travel
+                </a>
+                <a class="lfy_navigation_list_link" href="https://inside.towson.edu/psLogin/">
+                 Towson Online Services
+                </a>
+                <a class="lfy_navigation_list_link" href="https://blackboard.towson.edu/">
+                 Blackboard
+                </a>
+                <a class="lfy_navigation_list_link" href="https://towson.my.salesforce.com/">
+                 Salesforce
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/landmarks/webcam.html">
+                 TU Webcam
+                </a>
+                <a class="lfy_navigation_list_link" href="https://outlook.towson.edu/">
+                 Webmail
+                </a>
+               </nav>
+              </div>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Helpful Services &amp; Resources
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/hr/">
+                 Human Resources
+                </a>
+                <a class="lfy_navigation_list_link" href="/provost/index.html">
+                 Office of the Provost
+                </a>
+                <a class="lfy_navigation_list_link" href="/technology/facultystaff/support/help.html">
+                 OTS Faculty/Staff Help Center
+                </a>
+                <a class="lfy_navigation_list_link" href="https://techhelp.towson.edu/">
+                 TechHelp
+                </a>
+                <a class="lfy_navigation_list_link" href="/registrar/calendars/index.html">
+                 Academic Calendar
+                </a>
+                <a class="lfy_navigation_list_link" href="https://inside.towson.edu/generalcampus/formsrepository/output.cfm">
+                 Forms Repository
+                </a>
+                <a class="lfy_navigation_list_link" href="https://towson.omnilert.net/">
+                 Campus Emergency Notification
+                </a>
+                <a class="lfy_navigation_list_link" href="http://forecast.weather.gov/MapClick.php?CityName=Towson&amp;state=MD&amp;site=LWX&amp;textField1=39.395&amp;textField2=-76.6213&amp;e=1#.VVypuzvF99U">
+                 Local Weather
+                </a>
+                <a class="lfy_navigation_list_link" href="/inclusionequity/titleix/index.html">
+                 Title IX
+                </a>
+               </nav>
+              </div>
+             </div>
+             <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_5">
+              Alumni
+             </a>
+             <div class="tabber-tab" id="lfy_5m">
+              <h3 class="type">
+               Alumni
+              </h3>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Alumni Benefits &amp; Services
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/resources">
+                 Overview
+                </a>
+                <a class="lfy_navigation_list_link" href="/magazine/index.html">
+                 TU Magazine
+                </a>
+                <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/article/Alumni-Discount-Programs">
+                 Alumni Discount Programs
+                </a>
+                <a class="lfy_navigation_list_link" href="https://towsonustore.com/SiteText.aspx?id=11578">
+                 University Store
+                </a>
+                <a class="lfy_navigation_list_link" href="/careercenter/index.html">
+                 Career Center
+                </a>
+               </nav>
+              </div>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Helpful Resources
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/">
+                 Tiger Connect
+                </a>
+                <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/topic/0TO0h000000XeiDGAS/towson-advocacy-program?tabset-c1307=2">
+                 Towson Advocacy Program
+                </a>
+                <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/topic/0TO0h000000XehiGAC/alumni-athletic-programs?tabset-c1307=2">
+                 Game Day Celebrations
+                </a>
+                <a class="lfy_navigation_list_link" href="/registrar/registration/request-transcript.html">
+                 Transcripts
+                </a>
+                <a class="lfy_navigation_list_link" href="/giving">
+                 TU Fund
+                </a>
+                <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/article/Volunteer-Outreach">
+                 Volunteer &amp; Outreach
+                </a>
+                <a class="lfy_navigation_list_link" href="/support/index.html">
+                 Support Towson University
+                </a>
+                <a class="lfy_navigation_list_link" href="/advancement/alumni.html">
+                 Office of Alumni Relations
+                </a>
+                <a class="lfy_navigation_list_link" href="https://alumni.towson.edu/s/events-list">
+                 Alumni Events
+                </a>
+               </nav>
+              </div>
+             </div>
+             <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_6">
+              Community Members
+             </a>
+             <div class="tabber-tab" id="lfy_6m">
+              <h3 class="type">
+               Community Members
+              </h3>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Helpful Resources
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/campus/artsculture/index.html">
+                 Arts &amp; Culture Events
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/artsculture/tickets.html">
+                 Center for the Arts Box Office
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/artsculture/centers/communityart/index.html">
+                 Community Arts &amp; Childrenâs Programs
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/programs/relations/index.html">
+                 Neighborhood Relations
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/programs/youth/index.html">
+                 Kid Camps &amp; Youth Programs
+                </a>
+                <a class="lfy_navigation_list_link" href="/visit/directions/index.html">
+                 Directions &amp; Parking
+                </a>
+                <a class="lfy_navigation_list_link" href="/counsel/records.html">
+                 Public Information Act Requests
+                </a>
+               </nav>
+              </div>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Services for the Community
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/iwb/index.html">
+                 Institute for Well Being
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/programs/volunteers.html">
+                 Find Volunteers
+                </a>
+                <a class="lfy_navigation_list_link" href="https://wtmd.org/">
+                 WTMD
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/programs/lifelonglearning.html">
+                 Lifelong Learning
+                </a>
+               </nav>
+              </div>
+             </div>
+             <a class="qlside tabber-handle lfy_tab_navigation_link" href="#lfy_7">
+              Business Partners
+             </a>
+             <div class="tabber-tab" id="lfy_7m">
+              <h3 class="type">
+               Business Partners
+              </h3>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Centers &amp; Services
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/campus/artsculture/centers/asianarts/index.html">
+                 Asian Arts &amp; Culture Center
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/community/index.html">
+                 BTU-Partnerships at Work For Greater Baltimore
+                </a>
+                <a class="lfy_navigation_list_link" href="/cbe/outreach/appliedbusiness.html">
+                 Center for Applied Business &amp; Economic Research
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/partnerships-research/gis/index.html">
+                 Center for GIS
+                </a>
+                <a class="lfy_navigation_list_link" href="/provost/initiatives/innovation/index.html">
+                 Center for Innovation &amp; Entrepreneurship
+                </a>
+                <a class="lfy_navigation_list_link" href="/coe/resources/professionalpractice/index.html">
+                 Center for Professional Practice
+                </a>
+                <a class="lfy_navigation_list_link" href="/fcsm/centers/stem/index.html">
+                 Center for STEM Excellence
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/partnerships-research/venture-creation/index.html">
+                 Venture Creation
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/partnerships-research/outreach.html">
+                 Partnerships &amp; Outreach
+                </a>
+                <a class="lfy_navigation_list_link" href="/campus/partnerships-research/economic-studies/index.html">
+                 Regional Economic Studies Institute
+                </a>
+               </nav>
+              </div>
+              <div class="lfy_navigation_group">
+               <h4 class="label">
+                Helpful Resources
+               </h4>
+               <nav class="lfy_navigation_list">
+                <a class="lfy_navigation_list_link" href="/careercenter/employers/index.html">
+                 Hiring TU Students
+                </a>
+                <a class="lfy_navigation_list_link" href="/support/ways/sponsorship.html">
+                 Sponsorship &amp; Advertising Opportunities
+                </a>
+               </nav>
+              </div>
+             </div>
+            </div>
+            <div id="close-the-ql">
+             <a class="lfy_close_hook" href="/index.html">
+              Close Quicklinks
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
+   </header>
+   <main class="page" id="page" role="main" tabindex="-1">
+    <section class="breadcrumb_container">
+     <div class="row">
+      <nav class="all-full breadcrumb_items">
+       <a class="breadcrumb_item breadcrumb_link" href="/">
+        Home
+       </a>
+       <a class="breadcrumb_item breadcrumb_link" href="/fcsm/">
+        FCSM
+       </a>
+       <a class="breadcrumb_item breadcrumb_link" href="/fcsm/departments/">
+        Departments &amp; Programs
+       </a>
+       <a class="breadcrumb_item breadcrumb_link" href="/fcsm/departments/physics/">
+        Dept of Physics, Astronomy &amp; Geosciences
+       </a>
+       <span class="breadcrumb_item active">
+        Faculty &amp; Staff
+       </span>
+      </nav>
+     </div>
+    </section>
+    <section class="page_content_container">
+     <div class="row">
+      <header class="page_content">
+       <div class="all-full">
+        <h1 class="page_header">
+         Faculty &amp; Staff
+        </h1>
+       </div>
+       <div class="mobile-full tablet-full desktop-full max-10 page-content">
+        <p class="intro">
+         Here you will find a listing of the full-time faculty, adjunct faculty and administrative
+                           and technical staff of the Department of Physics, Astronomy &amp; Geosciences.
+        </p>
+       </div>
+      </header>
+      <div class="mobile-full tablet-full desktop-8 left_column page_content">
+       <div class="wysiwyg">
+        <h2>
+         Full - Time Faculty
+        </h2>
+        <table class="table-zebra">
+         <thead>
+          <tr>
+           <th>
+            name
+           </th>
+           <th>
+            Contact
+           </th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/michelle-casey.html">
+             Michelle Casey
+            </a>
+            <br/>
+            <span>
+             Assistant Professor
+            </span>
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKmcasey AT_TOWSON" onclick="">
+             mcasey AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-2744
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 412-E
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/pghavamian.html">
+             Parviz Ghavamian
+            </a>
+            <br/>
+            <span>
+             Associate
+            </span>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKpghavamian AT_TOWSON" onclick="">
+             pghavamian AT_TOWSON
+            </a>
+            <br/>
+            410-704-3137
+            <br/>
+            Smith Hall, Room 412-D
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/sgladycheva.html">
+             Svetlana Gladycheva
+            </a>
+            <br/>
+            Lecturer
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKsgladycheva AT_TOWSON" onclick="">
+             sgladycheva AT_TOWSON
+            </a>
+            <br/>
+            410-704-3187
+            <br/>
+            Smith Hall, Room 475
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/pha.html">
+             Phuoc D. Ha
+            </a>
+            <br/>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKpdha AT_TOWSON" onclick="">
+             pdha AT_TOWSON
+            </a>
+            <br/>
+            410-704-2174
+            <br/>
+            Smith Hall, Room 463
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/andrew-hawkins.html">
+             Andrew Hawkins
+            </a>
+            <br/>
+            <span>
+             Lecturer
+            </span>
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKahawkins AT_TOWSON" onclick="">
+             ahawkins AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-3187
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 475
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/rhermann.html">
+             Ron Hermann
+            </a>
+            <br/>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKrhermann AT_TOWSON" onclick="">
+             rhermann AT_TOWSON
+            </a>
+            <br/>
+            410-704-3011
+            <br/>
+            Smith Hall, Room 412-B
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/rkolagani.html">
+             Rajeswari Kolagani
+            </a>
+            <br/>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKrkolagani AT_TOWSON" onclick="">
+             rkolagani AT_TOWSON
+            </a>
+            <br/>
+            410-704-3134
+            <br/>
+            Smith Hall, Room 459
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/tkrause.html">
+             Thomas O. Krause
+            </a>
+            <br/>
+            Associate Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKtkrause AT_TOWSON" onclick="">
+             tkrause AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-3117
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 465
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/nkudsieh.html">
+             Nicholas Kudsieh
+            </a>
+            <br/>
+            <span>
+             Lecturer
+            </span>
+           </td>
+           <td>
+            <span>
+             <a class="email-link" href="SPECIAL_LINKnkudsieh AT_TOWSON" onclick="">
+              nkudsieh AT_TOWSON
+             </a>
+             <br/>
+             <span>
+              410-704-3187
+             </span>
+             <br/>
+             <span>
+              Smith Hall, Room 475
+             </span>
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/plotteroperdue.html">
+             Pamela Lottero-Perdue
+            </a>
+            <br/>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKplottero AT_TOWSON" onclick="">
+             plottero AT_TOWSON
+            </a>
+            <br/>
+            410-704-4598
+            <br/>
+            Smith Hall, Room 426-C
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/pmcneal.html">
+             Peggy McNeal
+            </a>
+            <br/>
+            <span>
+             Assistant Professor
+            </span>
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKpmcneal AT_TOWSON" onclick="">
+             pmcneal AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-2441
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 426-B
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/dmenon.html">
+             Deepika Menon
+            </a>
+            <br/>
+            Assistant Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKdmenon AT_TOWSON" onclick="">
+             dmenon AT_TOWSON
+            </a>
+            <br/>
+            410-704-2116
+            <br/>
+            Smith Hall, Room 426-F
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/rmiranda.html">
+             Rommel Miranda
+            </a>
+            <br/>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKrmiranda AT_TOWSON" onclick="">
+             rmiranda AT_TOWSON
+            </a>
+            <br/>
+            410-704-3014
+            <br/>
+            Smith Hall, Room 421
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/jmoore.html">
+             Joel Moore
+            </a>
+            <br/>
+            <span>
+             Associate
+            </span>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKmoore AT_TOWSON" onclick="">
+             moore AT_TOWSON
+            </a>
+            <br/>
+            410-704-4245
+            <br/>
+            Smith Hall, Room 412-C
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/wnelson.html">
+             Wendy Nelson
+            </a>
+            <br/>
+            Assistant Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKwrnelson AT_TOWSON" onclick="">
+             wrnelson AT_TOWSON
+            </a>
+            <br/>
+            410-704-3133
+            <br/>
+            Smith Hall, Room 412-F
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/joverduin.html">
+             James Overduin
+            </a>
+            <br/>
+            Associate Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKjoverduin AT_TOWSON" onclick="">
+             joverduin AT_TOWSON
+            </a>
+            <br/>
+            410-704-3624
+            <br/>
+            Smith Hall, Room 459
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/gpennington.html">
+             Gary Pennington
+            </a>
+            <br/>
+            Lecturer
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKgpennington AT_TOWSON" onclick="">
+             gpennington AT_TOWSON
+            </a>
+            <br/>
+            410-704-3187
+            <br/>
+            Smith Hall, Room 475
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/eriks-perkons.html">
+             Eriks Perkons
+            </a>
+            <br/>
+            <span>
+             Lecturer
+            </span>
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKeperkons AT_TOWSON" onclick="">
+             eperkons AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-3187
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 475
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/rburksrea.html">
+             Rachel Burks Rea
+            </a>
+            <br/>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKrburks AT_TOWSON" onclick="">
+             rburks AT_TOWSON
+            </a>
+            <br/>
+            410-704-3005
+            <br/>
+            Smith Hall, Room 451
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/christian-ready.html">
+             Christian Ready
+            </a>
+            <br/>
+            <span>
+             Lecturer
+            </span>
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKcready AT_TOWSON" onclick="">
+             cready AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-3187
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 475
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/csandifer.html">
+             Cody Sandifer
+            </a>
+            <br/>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKcsandifer AT_TOWSON" onclick="">
+             csandifer AT_TOWSON
+            </a>
+            <br/>
+            410-704-4989
+            <br/>
+            Smith Hall, Room 440
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/dschaefer.html">
+             David Schaefer
+            </a>
+            <br/>
+            Professor and Chairperson
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKdschaefer AT_TOWSON" onclick="">
+             dschaefer AT_TOWSON
+            </a>
+            <br/>
+            410-704-2220
+            <br/>
+            Smith Hall, Room 449
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/jscott.html">
+             Jennifer Scott
+            </a>
+            <br/>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKjescott AT_TOWSON" onclick="">
+             jescott AT_TOWSON
+            </a>
+            <br/>
+            410-704-3017
+            <br/>
+            Smith Hall, Room 461
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/jsimpson.html">
+             Jeff Simpson
+            </a>
+            <br/>
+            <span>
+             Professor
+            </span>
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKjrsimpson AT_TOWSON" onclick="">
+             jrsimpson AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-4737
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 457
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/vsmolyaninova.html">
+             Vera Smolyaninova
+            </a>
+            <br/>
+            <span>
+             Professor
+            </span>
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKvsmolyaninova AT_TOWSON" onclick="">
+             vsmolyaninova AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-2608
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 412-A
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/astorrs.html">
+             Alex Storrs
+            </a>
+            <br/>
+            <span>
+             Associate Professor
+            </span>
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKastorrs AT_TOWSON" onclick="">
+             astorrs AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-3003
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 412-G
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/ttsai.html">
+             Tevis Tsai
+            </a>
+            <br/>
+            Lecturer
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKttsai AT_TOWSON" onclick="">
+             ttsai AT_TOWSON
+            </a>
+            <br/>
+            <span>
+             410-704-3187
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 475
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/jyan.html">
+             Jia-An Yan
+            </a>
+            <br/>
+            <span>
+             Associate
+            </span>
+            Professor
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKjyan AT_TOWSON" onclick="">
+             jyan AT_TOWSON
+            </a>
+            <br/>
+            410-704-3008
+            <br/>
+            Smith Hall, Room 426-D
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <h2>
+         Administrative and Technical Staff
+        </h2>
+        <table class="table-zebra">
+         <thead>
+          <tr>
+           <th>
+            NAME
+           </th>
+           <th>
+            Contact
+           </th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td>
+            <a href="/fcsm/departments/physics/facultystaff/kcimino.html">
+             Karen Cimino
+            </a>
+            <br/>
+            Internship Coordinator
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKkcimino AT_TOWSON" onclick="">
+             kcimino AT_TOWSON
+            </a>
+            <br/>
+            410-704-4454
+            <br/>
+            Smith Hall, Room 500
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Mark Edmonston
+            <br/>
+            Lab Manager
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKmedmonston AT_TOWSON" onclick="">
+             medmonston AT_TOWSON
+            </a>
+            <br/>
+            410-704-3906
+            <br/>
+            Smith Hall, Room 426-E
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <span>
+             Margie Fasy
+            </span>
+            <br/>
+            <span>
+             Administrative Assistant I
+            </span>
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKmfasy AT_TOWSON" onclick="">
+             mfasy AT_TOWSON
+            </a>
+            <span>
+             <span>
+             </span>
+            </span>
+            <br/>
+            <span>
+             410-704-3021
+            </span>
+            <br/>
+            <span>
+             Smith Hall, Room 445
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Jeff Klupt
+            <br/>
+            Electronics Shop Director
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKjklupt AT_TOWSON" onclick="">
+             jklupt AT_TOWSON
+            </a>
+            <br/>
+            410-704-3927
+            <br/>
+            Smith Hall, Room 417
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Trevor Lowing
+            <br/>
+            Operations Manager
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKtlowing AT_TOWSON" onclick="">
+             tlowing AT_TOWSON
+            </a>
+            <br/>
+            410-704-3013
+            <br/>
+            <span>
+             Smith Hall, Room 444
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            S. Mark Monk
+            <br/>
+            Instrument Support Specialist
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKsmonk AT_TOWSON" onclick="">
+             smonk AT_TOWSON
+            </a>
+            <br/>
+            410-704-2566
+            <br/>
+            Smith Hall, Room 467
+           </td>
+          </tr>
+          <tr>
+           <td>
+            ReneÃ© Watkins
+            <br/>
+            Administrative Assistant II
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKrwatkins AT_TOWSON" onclick="">
+             rwatkins AT_TOWSON
+            </a>
+            <br/>
+            410-704-3022
+            <br/>
+            Smith Hall, Room 447
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <h2>
+         Teacher-in-Residence
+        </h2>
+        <table>
+         <thead>
+          <tr>
+           <th>
+            name
+           </th>
+           <th>
+            contact
+           </th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td>
+            James Selway
+            <br/>
+            TIR
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKjselway AT_TOWSON" onclick="">
+             jselway AT_TOWSON
+            </a>
+            <br/>
+            410-704-4348
+            <br/>
+            Smith Hall, Room 448
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <h2>
+         Adjunct Faculty
+        </h2>
+        <table>
+         <thead>
+          <tr>
+           <th colspan="3">
+            contact info: Smith hall room 415, 410-704-4729, unless noted
+           </th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td>
+            Koudia Amouzou
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKkamouzou AT_TOWSON" onclick="">
+             kamouzou AT_TOWSON
+            </a>
+           </td>
+           <td>
+            Robert Auburger
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKrauburger AT_TOWSON" onclick="">
+             rauburger AT_TOWSON
+            </a>
+           </td>
+           <td>
+            <span>
+             Laura Etchemaite-Walborn
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKletchemaitewalborn AT_TOWSON" onclick="">
+             letchemaitewalborn AT_TOWSON
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <span>
+             Kimberly Galinn
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKkgalinn AT_TOWSON" onclick="">
+             kgalinn AT_TOWSON
+            </a>
+           </td>
+           <td>
+            <span>
+             Sean Lally
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKslally AT_TOWSON" onclick="">
+             slally AT_TOWSON
+            </a>
+           </td>
+           <td>
+            <span>
+             Karen Luniewski
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKkluniewski AT_TOWSON" onclick="">
+             kluniewski AT_TOWSON
+            </a>
+            <br/>
+            <br/>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <span>
+             Geoffrey McIntyre
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKgmcintyre AT_TOWSON" onclick="">
+             gmcintyre AT_TOWSON
+            </a>
+           </td>
+           <td>
+            <span>
+             Christy Zuidema Metzger
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKczuidema AT_TOWSON" onclick="">
+             czuidema AT_TOWSON
+            </a>
+           </td>
+           <td>
+            <span>
+             Ha Nguyen
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKhnguyen AT_TOWSON" onclick="">
+             hnguyen AT_TOWSON
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Harry Olson
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKholson AT_TOWSON" onclick="">
+             holson AT_TOWSON
+            </a>
+           </td>
+           <td>
+            <span>
+             James Selway
+            </span>
+            <br/>
+            <span>
+             SM 448; 410-704-4348
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKjselway AT_TOWSON" onclick="">
+             jselway AT_TOWSON
+            </a>
+           </td>
+           <td>
+            <span>
+             Lisa Trattner
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKltrattner AT_TOWSON" onclick="">
+             ltrattner AT_TOWSON
+            </a>
+            <br/>
+            <br/>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <span>
+             Allison Wilson
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKawilson AT_TOWSON" onclick="">
+             awilson AT_TOWSON
+            </a>
+           </td>
+           <td>
+            <span>
+             Sergei Zverev
+             <br/>
+            </span>
+            <a class="email-link" href="SPECIAL_LINKszverev AT_TOWSON" onclick="">
+             szverev AT_TOWSON
+            </a>
+            <span>
+            </span>
+           </td>
+           <td>
+            <span>
+             Anthony Davidson
+            </span>
+            <br/>
+            <a class="email-link" href="SPECIAL_LINKadavidson AT_TOWSON" onclick="">
+             adavidson AT_TOWSON
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <span>
+             Fabian (Daniel) Orozco
+             <br/>
+             <a class="email-link" href="SPECIAL_LINKforozco AT_TOWSON" onclick="">
+              forozco AT_TOWSON
+             </a>
+             <br/>
+            </span>
+           </td>
+           <td>
+            <span>
+             Miguel Angel Requena Torres
+             <br/>
+             <a class="email-link" href="SPECIAL_LINKmrequenato AT_TOWSON" onclick="">
+              mrequenato AT_TOWSON
+             </a>
+             <br/>
+            </span>
+           </td>
+           <td>
+            <span>
+             Kielan Wilcomb
+             <br/>
+             <a class="email-link" href="SPECIAL_LINKkwilcomb AT_TOWSON" onclick="">
+              kwilcomb AT_TOWSON
+             </a>
+             <br/>
+            </span>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <span>
+             Muhammad Ali Yousuf
+             <br/>
+             <a class="email-link" href="SPECIAL_LINKmaliyousuf AT_TOWSON" onclick="">
+              maliyousuf AT_TOWSON
+             </a>
+            </span>
+           </td>
+           <td>
+           </td>
+           <td>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <h2>
+         <br/>
+         Retired Faculty
+        </h2>
+        <table class="table-zebra">
+         <thead>
+          <tr>
+           <th>
+            NAME
+           </th>
+           <th>
+            CONTACT
+           </th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr>
+           <td>
+            Harry Bates
+           </td>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Henry Chen
+            <br/>
+            Professor Emeritus
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKhchen AT_TOWSON" onclick="">
+             hchen AT_TOWSON
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <span>
+             Jon Filer
+             <br/>
+             Professor Emeritus
+             <br/>
+            </span>
+           </td>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <span>
+             David Greene
+            </span>
+           </td>
+           <td>
+            <a href="mailto:eneergdivad@gmail.com">
+             eneergdivad@gmail.com
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Jacob Huang
+            <br/>
+            Professor Emeritus
+           </td>
+           <td>
+            <a href="mailto:jacob.wkhuang@gmail.com">
+             jacob.wkhuang@gmail.com
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Robert Johnson
+           </td>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Elmer Kreisel
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKekreisel AT_TOWSON" onclick="">
+             ekreisel AT_TOWSON
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Eddie Loh
+           </td>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Mary Lu Larson
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKmlarsen AT_TOWSON" onclick="">
+             mlarsen AT_TOWSON
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Loretta Molitor
+            <br/>
+            Professor Emeritus
+           </td>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            Leon Ukens
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKlukens AT_TOWSON" onclick="">
+             lukens AT_TOWSON
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            John Wessner
+           </td>
+           <td>
+            <a class="email-link" href="SPECIAL_LINKwessner AT_TOWSON" onclick="">
+             wessner AT_TOWSON
+            </a>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        <p>
+        </p>
+        <p>
+        </p>
+       </div>
+      </div>
+      <aside class="mobile-full tablet-full desktop-3 desktop-push-1 sidebar_container" role="complementary">
+       <div class="sidebar">
+       </div>
+      </aside>
+     </div>
+    </section>
+   </main>
+   <!DOCTYPE HTML>
+   <footer class="footer" id="footer" role="contentinfo">
+    <div class="row">
+     <section class="mobile-full tablet-half desktop-3">
+      <div class="footer_address">
+       8000 York Road
+       <br/>
+       Towson, MD 21252
+      </div>
+      <nav class="footer_contact_links">
+       <a class="footer_contact_link" href="/contact.html" onclick="ga('send', 'event', 'footer', 'click', 'contactus');">
+        Contact Us
+       </a>
+       <a class="footer_contact_link" href="/visit/index.html" onclick="ga('send', 'event', 'footer', 'click', 'visitcampus');">
+        Visit Campus
+       </a>
+       <a class="footer_contact_link" href="/visit/directions/index.html" onclick="ga('send', 'event', 'footer', 'click', 'directionsparking');">
+        Directions &amp; Parking
+       </a>
+       <a class="footer_contact_link" href="/hr/prospective.html" onclick="ga('send', 'event', 'footer', 'click', 'workattowsonu');">
+        Work at Towson University
+       </a>
+      </nav>
+     </section>
+     <nav class="mobile-full tablet-half desktop-5 footer_phone_numbers">
+      <div class="footer_phone_number_container1">
+       <span class="footer_label_header">
+        General
+       </span>
+       <span class="footer_label">
+        Main Line
+       </span>
+       <a class="footer_phone_number" href="tel:+14107042000" onclick="ga('send', 'event', 'footer', 'click', 'phonemainline');">
+        410-704-2000
+       </a>
+      </div>
+      <div class="footer_phone_number_container2">
+       <span class="footer_label">
+        Closings &amp; News
+       </span>
+       <a class="footer_phone_number" href="tel:+14107046397" onclick="ga('send', 'event', 'footer', 'click', 'phoneclosingnews');">
+        410-704-NEWS (6397)
+       </a>
+      </div>
+      <div class="footer_phone_number_container3">
+       <span class="footer_label_header">
+        University Police
+       </span>
+       <span class="footer_label">
+        Emergency
+       </span>
+       <a class="footer_phone_number" href="tel:+14107044444" onclick="ga('send', 'event', 'footer', 'click', 'phoneemergency');">
+        410-704-4444
+       </a>
+      </div>
+      <div class="footer_phone_number_container4">
+       <span class="footer_label">
+        Non-Emergency
+       </span>
+       <a class="footer_phone_number" href="tel:+14107042134" onclick="ga('send', 'event', 'footer', 'click', 'phonenonemergency');">
+        410-704-2134
+       </a>
+      </div>
+     </nav>
+     <nav class="mobile-full tablet-full desktop-4 footer_social_links">
+      <a class="footer_social_link facebook" href="https://www.facebook.com/towsonuniversity" onclick="ga('send', 'event', 'footer', 'click', 'facebook');">
+       Facebook
+      </a>
+      <a class="footer_social_link twitter" href="http://twitter.com/TowsonU" onclick="ga('send', 'event', 'footer', 'click', 'twitter');">
+       Twitter
+      </a>
+      <a class="footer_social_link linkedin" href="https://www.linkedin.com/school/towson-university/" onclick="ga('send', 'event', 'footer', 'click', 'linkedin');">
+       LinkedIn
+      </a>
+      <a class="footer_social_link youtube" href="https://www.youtube.com/TowsonUniversity" onclick="ga('send', 'event', 'footer', 'click', 'youtube');">
+       YouTube
+      </a>
+      <a class="footer_social_link instagram" href="http://instagram.com/towsonuniversity" onclick="ga('send', 'event', 'footer', 'click', 'instagram');">
+       Instagram
+      </a>
+     </nav>
+     <section class="mobile-full tablet-full desktop-full">
+      <br/>
+      <a href="https://www.usmd.edu/" onclick="ga('send', 'event', 'footer', 'click', 'usmlink');" style="font-size: .85rem;">
+       A University System of Maryland Member Institution
+      </a>
+     </section>
+     <section class="mobile-full tablet-full desktop-full footer_utilities">
+      <a class="footer_text_alerts_link" href="/publicsafety/notification/text-alerts.html" onclick="ga('send', 'event', 'footer', 'click', 'signuptextalerts');">
+       Sign Up For Text Alerts
+      </a>
+      <nav class="footer_utility_links">
+       <a class="footer_utility_link" href="/about/accessibility/index.html" onclick="ga('send', 'event', 'footer', 'click', 'accessibility');">
+        Accessibility
+       </a>
+       <a class="footer_utility_link" href="/publicsafety/emergencies/index.html" onclick="ga('send', 'event', 'footer', 'click', 'emergencyinfo');">
+        Emergency Info
+       </a>
+       <a class="footer_utility_link" href="/privacy.html" onclick="ga('send', 'event', 'footer', 'click', 'privacy');">
+        Privacy
+       </a>
+       <a class="footer_utility_link" href="/publicsafety/cleryact.html" onclick="ga('send', 'event', 'footer', 'click', 'cleryreport');">
+        Clery Report
+       </a>
+       <a class="footer_utility_link" href="/copyright.html" onclick="ga('send', 'event', 'footer', 'click', 'copyright');">
+        Copyright
+       </a>
+       <a class="footer_utility_link" href="#" id="ou_directedit">
+        Â©
+        <script type="text/javascript">
+         var d= new Date(); document.write(d.getFullYear());
+        </script>
+       </a>
+      </nav>
+     </section>
+    </div>
+   </footer>
+  </div>
+  <div style="none;">
+   <a href="https://a.cms.omniupdate.com/11/?skin=towson&amp;account=towson&amp;site=www&amp;action=de&amp;path=/fcsm/departments/physics/facultystaff/index.pcf" id="ou_de">
+    Direct Edit
+   </a>
+  </div>
+  <!-- Compiled JS -->
+  <script>
+   var WWW_ROOT = "http://www.towson.edu/";
+  </script>
+  <script src="/_resources/js/site.js?date=200103a">
+  </script>
+  <!-- Navigation Highlighting -->
+  <script src="/_resources/js/nav.js">
+  </script>
+  <!-- WNL -->
+  <script src="/_resources/js/ou_wnl.js">
+  </script>
+  <!-- Script for moving Direct Edit Button in place -->
+  <script type="text/javascript">
+   function directedit() {
+		var link = document.getElementById("ou_de").getAttribute("href");
+		document.getElementById("ou_de").outerHTML = "";
+		document.getElementById("ou_directedit").setAttribute("href", link);
+	
+	}
+	
+	window.onload = function(){ 
+		if (document.getElementById("ou_de") && document.getElementById("ou_directedit")){
+			directedit();
+		}
+	}
+  </script>
+  <!-- Track PDF Clicks -->
+  <!-- Added Cookiebot code on 10/25/18 -->
+  <script data-cookieconsent="statistics" type="text/plain">
+   $(document).ready(function($) {
+        var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
+        var baseHref = '';
+        if ($('base').attr('href') != undefined)
+            baseHref = $('base').attr('href');
+        $('a').each(function() {
+            var href = $(this).attr('href');
+            if (href && href.match(filetypes)) {
+                $(this).click(function() {
+                    var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                    var filePath = href;
+                    ga('send','event','Download Link','click-' + extension,filePath);
+					ga('trackerTwo.send','event','Download Link','click-' + extension,filePath);
+					ga('send', 'pageview', filePath);
+					ga('trackerTwo.send', 'pageview', filePath);
+					// console.log('event: ' + filePath);
+                    if ($(this).attr('target') != undefined && $(this).attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function() { location.href = baseHref + href; }, 200);
+                        return false;
+                    }
+                });
+            }
+        });
+    });
+  </script>
+  <noscript>
+   JS for Moving Direct Edit Button into place.
+  </noscript>
+  <!-- Added YouVisit tracking on 10/3/19 -->
+  <script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3">
+  </script>
+  <script src="/_resources/js/email_obfuscation.js" type="text/javascript">
+  </script>
+ </body>
+</html>
